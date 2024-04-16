@@ -1,3 +1,6 @@
+//group 6
+//Basically this code is of hotel menu where the user provide some information like name,
+//address,mobile numeber and order some items from the menu and at last the final bill will be displayed.
 #include <stdio.h>
 #include <string.h>
 
