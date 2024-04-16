@@ -1,4 +1,4 @@
-<h1><hr>Hotel Menu C Program</hr></h1> 
+<h1><u>Hotel Menu C Program</u></h1> 
 <br><h3># finalProj-1stSemester</h3><br>
 This is our(group-6) final project in C programming of the 1st sem.
 <p>This program allows user to order any items from the menu displays.<br>And then it calculate the total price at last and then add it to final bill.<br>Also this program asks users name,address, and mobile number and add to bill at last and further save it in <a href="https://github.com/ketan-karn/finalProj-1stSemester/blob/main/order.txt">order.txt</a> file.</p>
