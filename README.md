@@ -6,7 +6,7 @@ This is our(group-6) final project in C programming of the 1st sem.
 <br>This program meets with every prereqisites like file handling,formatted I/O,argument passed by value and by reference,struct,array,function with proper documentation and explanations.
 
 <br>(Note:In this program some ANSI escape sequence are used which may not be compatible for some older version IDE)
-<br>This project is made by:<br>
+<br>This project is coperatively made by:<br>
 <ul>
   <li><h3>Nabin Singh Kushwaha</h3></li>
   <li><h3>Nischal Poudel</h3></li>
