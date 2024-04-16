@@ -1,4 +1,4 @@
-<h5>Hotel Menu C Program</h5> 
+<h1>Hotel Menu C Program</h1> 
 <br><h3># finalProj-1stSemester</h3><br>
 This is our(group-6) final project in C programming of the 1st sem.
 
