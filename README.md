@@ -8,8 +8,8 @@ This is our(group-6) final project in C programming of the 1st sem.
 <br>(Note:In this program some ANSI escape sequence are used which may not be compatible for some older version IDE)
 <br>This project is coperatively made by:<br>
 <ul>
-  <li><h3>Nabin Singh Kushwaha</h3></li>
-    <li><h3>Narottam Parajuli</h3></li>
-  <li><h3>Nischal Poudel</h3></li>
-  <li><h3>Ketan Karna</h3></li>
+  <li><h3><a href="https://www.facebook.com/nabeensingh.kushwaha">Nabin Singh Kushwaha</a></h3></li>
+    <li><h3><a href="https://www.facebook.com/hemanta.parajuli.3110">Narottam Parajuli</a></h3></li>
+  <li><h3><a href="https://www.facebook.com/pnischal23">Nischal Poudel</a></h3></li>
+  <li><h3><a href="https://www.facebook.com/ketan.karn.71">Ketan Karna</a></h3></li>
 </ul>
