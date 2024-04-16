@@ -1,0 +1,43 @@
+
+
+Customer Information:
+Name: ketan karna
+Address: pokhara
+Mobile Number: 9762800555
+
+
+Order Details:
+Thukpa - Rs 0.00 x 2
+Sel Roti - Rs 0.00 x 3
+Thukpa - Rs 0.00 x 2
+
+Total Bill: Rs 750.00
+
+
+Customer Information:
+Name: ketan karna
+Address: janakpur
+Mobile Number: 97628000555
+
+
+Order Details:
+Momo - Rs 0.00 x 3
+Dal Bhat - Rs 0.00 x 2
+
+Total Bill: Rs 700.00
+
+
+Customer Information:
+Name: ketan karna
+Address: janakpur
+Mobile Number: 9762800555
+
+
+Order Details:
+Thukpa - Rs 0.00 x 2
+Momo - Rs 0.00 x 4
+Momo - Rs 0.00 x 1
+Sel Roti - Rs 0.00 x 3
+
+Total Bill: Rs 950.00
+
